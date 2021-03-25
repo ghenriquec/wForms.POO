@@ -1,0 +1,15 @@
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.exe
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.deps.json
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.runtimeconfig.json
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.runtimeconfig.dev.json
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.dll
+C:\Users\guiih\source\repos\Av3C20Ex05\bin\Debug\netcoreapp3.1\Av3C20Ex05.pdb
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.csprojAssemblyReference.cache
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.Form1.resources
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.csproj.GenerateResource.cache
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.AssemblyInfoInputs.cache
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.AssemblyInfo.cs
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.csproj.CoreCompileInputs.cache
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.dll
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.pdb
+C:\Users\guiih\source\repos\Av3C20Ex05\obj\Debug\netcoreapp3.1\Av3C20Ex05.genruntimeconfig.cache
